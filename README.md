@@ -1,3 +1,12 @@
+---
+title: Neorunner Backend
+emoji: 🚀
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
+
 # NeoRunner Behavioral Biometric Backend
 
 FastAPI backend for NeoRunner's continuous authentication system. Collects and persists HMOG-compatible behavioral biometric events.
